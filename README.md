@@ -1,9 +1,9 @@
 Sandesh
 Personal GitHub profile README
-Hi 👋, I'm Sandesh
-🎓 2nd Year B.Tech CSE Student  
-💻 Learning Java, DSA & Web Development  
-🌱 Interested in Open Source & GSoC  
+Hi , I'm Sandesh
+ 2nd Year B.Tech CSE Student  
+ Learning Java, DSA & Web Development  
+ Interested in Open Source & GSoC  
 
  Skills
 - Java
