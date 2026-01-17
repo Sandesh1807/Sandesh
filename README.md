@@ -9,7 +9,7 @@ Hi , I'm Sandesh
 - Java
 - DSA
 - HTML, CSS, JavaScript
-- 
+  
 Projects
 - Netflix Clone
 
